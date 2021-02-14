@@ -3,7 +3,7 @@ Website for Mordor Fun Run
 
 Based on the Jekyll theme forked from https://github.com/jeromelachaud/grayscale-theme.
 
-# Install
+# Install for the first time
 
 This uses Jekyll which is wonderful, but unfortunately requires Ruby on a mac, which is not.
 
@@ -20,8 +20,8 @@ Install ruby:
 
 Clone:
 
-    git clone git@github.com:joesparrow/mordorfunrun.github.io.git
-    cd mordorfunrun.github.io.git
+    git clone git@github.com:joesparrow/mordorfunrun
+    cd mordorfunrun
 
 Run:
 
@@ -33,6 +33,12 @@ Run:
     bundle install
 
 # Develop
+
+Clone:
+
+    git clone git@github.com:joesparrow/mordorfunrun
+    cd mordorfunrun
+    bundle install
 
 Run jekyll with:
 
