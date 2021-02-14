@@ -20,7 +20,7 @@ Install ruby:
 
 Clone:
 
-    git clone git@github.com:joesparrow/mordorfunrun
+    git clone git@github.com:joesparrow/mordorfunrun.git
     cd mordorfunrun
 
 Run:
@@ -36,7 +36,7 @@ Run:
 
 Clone:
 
-    git clone git@github.com:joesparrow/mordorfunrun
+    git clone git@github.com:joesparrow/mordorfunrun.git
     cd mordorfunrun
     bundle install
 
@@ -46,6 +46,6 @@ Run jekyll with:
 
 See the site locally: http://127.0.0.1:4000/
 
-Or on github pages: https://mordorfunrun.github.io/
+Or on github pages: https://joesparrow.github.io/mordorfunrun/
 
 Or via domain name: https://mordorfunrun.co.uk
